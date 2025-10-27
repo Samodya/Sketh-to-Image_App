@@ -1,0 +1,5 @@
+{
+  "name": "Lumin Sketch to image",
+  "description": "An application that uses AI to upscale, repair, and remove watermarks from images, as well as generate new images from text prompts.",
+  "requestFramePermissions": []
+}
